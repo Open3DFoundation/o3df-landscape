@@ -1,0 +1,80 @@
+# Landscape2 data
+#
+# This file contains the data that will be used to generate the landscape.
+#
+# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/data.yml
+
+categories:
+  - name: Members
+    subcategories:
+      - name: Premier
+        items:
+          - name: Amazon Web Services
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            homepage_url: https://aws.amazon.com/
+            logo: aws.svg
+          - name: Huawei
+            crunchbase: https://www.crunchbase.com/organization/huawei
+            homepage_url: https://www.huawei.com
+            logo: huawei.svg
+          - name: Oppo
+            crunchbase: https://www.crunchbase.com/organization/oppo
+            homepage_url: https://www.oppo.com/
+            logo: oppo.svg
+      - name: General
+        items:
+          - name: Carbonated
+            crunchbase: https://www.crunchbase.com/organization/carbonated
+            homepage_url: https://www.carbonated.com
+            logo: carbonated.svg
+          - name: Genvid
+            crunchbase: https://www.crunchbase.com/organization/genvid-technologies-inc
+            homepage_url: https://genvidtech.com
+            logo: genvid.svg
+          - name: Red Hat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            homepage_url: https://www.redhat.com
+            logo: redhat.svg
+          - name: Robotec AI
+            crunchbase: https://www.crunchbase.com/organization/robotec-ai
+            homepage_url: https://robotec.ai
+            logo: robotecai.svg
+          - name: SideFX
+            crunchbase: https://www.crunchbase.com/organization/sidefx
+            homepage_url: https://www.sidefx.com
+            logo: sidefx.svg
+          - name: Silicon Studio
+            crunchbase: https://www.crunchbase.com/organization/silicon-studio-corporation
+            homepage_url: https://www.siliconstudio.co.jp
+            logo: siliconstudio.svg
+      - name: Associate
+        items:
+          - name: China Academy for Information and Communication Technology
+            crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
+            homepage_url: http://www.caict.ac.cn
+            logo: caict.svg
+          - name: IGDA
+            crunchbase: https://www.crunchbase.com/organization/igda-estonia
+            homepage_url: https://igda.org
+            logo: igda.svg
+          - name: Kutztown University
+            crunchbase: https://www.crunchbase.com/organization/kutztown-university-of-pennsylvania
+            homepage_url: https://www.kutztown.edu
+            logo: kutztown.svg
+          - name: Open Robotics
+            crunchbase: https://www.crunchbase.com/organization/open-source-robotics-foundation
+            homepage_url: https://www.openrobotics.org
+            logo: openrobotics.svg
+          - name: RIT
+            crunchbase: https://www.crunchbase.com/organization/rochester-institute-of-technology
+            homepage_url: https://www.rit.edu
+            logo: rit.svg
+  - name: Projects
+    subcategories:
+      - name: Projects
+        items:
+          - name: Open 3D Engine
+            description: Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+            homepage_url: https://o3de.org
+            logo: o3de.webp
+            repo_url: https://github.com/o3de/o3de
