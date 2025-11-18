@@ -17,20 +17,12 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/huawei
             homepage_url: https://www.huawei.com
             logo: huawei.svg
-          - name: Oppo
-            crunchbase: https://www.crunchbase.com/organization/oppo
-            homepage_url: https://www.oppo.com/
-            logo: oppo.svg
       - name: General
         items:
           - name: Carbonated
             crunchbase: https://www.crunchbase.com/organization/carbonated
             homepage_url: https://www.carbonated.com
             logo: carbonated.svg
-          - name: Genvid
-            crunchbase: https://www.crunchbase.com/organization/genvid-technologies-inc
-            homepage_url: https://genvidtech.com
-            logo: genvid.svg
           - name: Red Hat
             crunchbase: https://www.crunchbase.com/organization/red-hat
             homepage_url: https://www.redhat.com
@@ -43,10 +35,6 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/sidefx
             homepage_url: https://www.sidefx.com
             logo: sidefx.svg
-          - name: Silicon Studio
-            crunchbase: https://www.crunchbase.com/organization/silicon-studio-corporation
-            homepage_url: https://www.siliconstudio.co.jp
-            logo: siliconstudio.svg
       - name: Associate
         items:
           - name: China Academy for Information and Communication Technology
@@ -61,6 +49,8 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/kutztown-university-of-pennsylvania
             homepage_url: https://www.kutztown.edu
             logo: kutztown.svg
+          - name: Indian Institute of Technology Madras
+            homepage_url: https://www.iitm.ac.in/
           - name: Open Robotics
             crunchbase: https://www.crunchbase.com/organization/open-source-robotics-foundation
             homepage_url: https://www.openrobotics.org
